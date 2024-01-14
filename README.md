@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/juliy819/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliy819)](https://github.com/juliy819/github-readme-stats)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliy819&show_icons=true&theme=tokyonight)
+
+
 <!--
 **juliy819/juliy819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
