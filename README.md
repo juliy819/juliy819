@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![Visitor Count]([https://profile-counter.glitch.me/juliy819/count.svg](https://komarev.com/ghpvc/?username=juliy819&color=green))
-
-[![Top Langs]([![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=juliy819)](https://github.com/stats-organization/github-stats-extended))
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=juliy819)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!--
